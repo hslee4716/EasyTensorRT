@@ -3,7 +3,7 @@ EasyTRT
 ### **Install**
 ```shell
 $ git clone https://github.com/hslee4716/EasyTensorRT.git
-$ cd TensorRT_Demo
+$ cd EasyTensorRT
 $ pip install -r requirements.txt
 $ pip install -e .
 ```
